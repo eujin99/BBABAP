@@ -1,9 +1,8 @@
-# be05-2nd-project-1st-team-BBABAP
+# BBABAP
 
 ![BBABAP LOGO](https://github.com/beyond-sw-camp/be05-2nd-1team-BBABAP/assets/113917104/aa9c8201-c25c-4553-89cb-bcf0a741ce58)
 
 # <div align="center">전기차 충전소 찾기 서비스</div>
-## <div align="center">:dizzy:한화시스템 BEYOND SW캠프 2차 프로젝트:dizzy:</div>
 
 <div align=center><h3>:books: STACKS</h3></div>
 
